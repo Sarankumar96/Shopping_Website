@@ -1,0 +1,94 @@
+body{
+background-image:linear-gradient(to right,LightGreen,orange,LightGreen);
+}
+.abc{
+margin:-8px;
+}
+.xyz{
+	display:flex;
+	justify-content:space-evenly;
+}
+.xyz a{
+font-size:20px;}
+.def{
+	display:flex;
+}
+.def img{
+	height:265px;
+width:400px;
+border:3px solid brown;}
+.a123{
+	background-color:red;
+	color:white;
+font-size:35px;}
+.def p{
+margin:5px;}
+.b123{
+font-size:25px;}
+.c123{
+display:flex;
+justify-content:space-evenly;}
+.d123{
+border:3px solid red;
+background-color:Tan;
+border-radius:25px;
+}
+
+.d123 img{
+	height:300px;
+width:330px;}
+.d123 h1{
+color:white;
+background-color:red;}
+.f123{
+display:flex;
+justify-content:center;}
+.e123{
+	border:3px solid red;
+background-color:Tan;}
+.f123 img{
+height:400px;
+width:500px;
+margin:5px;}
+.pqr h1{
+	background-color:red;
+	color:white;	
+}
+.pqr p{
+font-size:22px;}
+	
+	.parents{
+		width:650px;
+	
+		height:500px;
+		border:2px solid black;
+		margin-left:420px;
+		justify-content:space-center;
+		background-color:tan;
+		border-radius:15px;
+	}
+	
+	.new img{
+		height:390px;
+		width:420px;
+		position: relative;
+		right:80px;
+		top:20px;
+	
+		
+	}
+	 
+	.old img{
+		height:390px;
+		width:380px;
+		position: relative;
+		left:370px;
+		bottom:370px;
+		
+	}
+	.parents h1{
+	margin-bottom : 10px;}
+	.sum {
+	background-color:red;
+	color:white;
+}
